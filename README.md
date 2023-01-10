@@ -12,14 +12,16 @@
 <h3 align="left">Screen Photos:</h3>
 <div>
  <img src= "https://user-images.githubusercontent.com/74709621/211670121-4dc98096-e656-470e-a3d0-ae19ee6fa914.png" />
+  
  <img src= "https://user-images.githubusercontent.com/74709621/211670164-97537f73-5da6-40a1-a815-c8d7a604f195.png" />
+  </br>
  <img src= "https://user-images.githubusercontent.com/74709621/211670204-b6e1c30f-413d-4ffe-98a7-29d706f8bd27.png" />
+ </br>
  <img src= "https://user-images.githubusercontent.com/74709621/211670235-071dd364-d227-4cbd-9642-b227de0d330c.png" />
+ </br>
  <img src= "https://user-images.githubusercontent.com/74709621/211670249-b93b0c3b-73a5-438f-99b9-be823fdd0d95.png" />
 </div>
 
 ******
 <h3 align="left">Libraries to Download:</h3>
-``` react
-npm i react-router-dom
-```
+
