@@ -28,5 +28,7 @@
 ```
 npm i react-router dom
 npm i react-owl-carousel
-
+npm i react-bootstrap bootstrap
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 ```
