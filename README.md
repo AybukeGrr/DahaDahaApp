@@ -32,3 +32,7 @@ npm i react-bootstrap bootstrap
 npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 ```
+
+******
+<h3 align="left">Project Description:</h3>
+<p>I did not use responsive structure. My project works better for "Dimensions: IPHONE SE".</p>
